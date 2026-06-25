@@ -3,5 +3,6 @@
     "devDependencies": {
         "jimp": "^0.2.21",
         "json-loader": "^0.5.4"
-    }
+    },
+    "license": "MIT"
 }
